@@ -2,7 +2,7 @@
 - A fully responsive Myntra Clone built using React.js that replicates the core features and design of the Myntra e-commerce platform.
 This project demonstrates modern frontend development practices including React components, Redux state management, React Router navigation, and dynamic UI rendering.
 
-🚀 Features
+## 🚀 Features
 - 🏠 Home Page: Displays product listings fetched from static data or API.
 - 🧥 Product Page: Shows product details with price, description, and images.
 - 🛒 Add to Bag: Add or remove products to/from shopping bag (cart) using Redux.
@@ -12,17 +12,17 @@ This project demonstrates modern frontend development practices including React 
 - 🌐 Responsive Design: Works seamlessly on desktop and mobile devices.
 - ⚡ Toast Notifications: Instant feedback using React Toastify.
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 - Frontend:React.js, JSX, CSS3
 - State Management	Redux Toolkit
 - Routing	React Router DOM
 - Notifications	React Toastify
 - Version Control	Git, GitHub
 
-⚙️ Installation and Setup
+## ⚙️ Installation and Setup
 
 - Clone the repository
-git clone https://github.com/<your-username>/Myntra-Clone.git
+git clone https://github.com/FahimRaj12/Myntra-Clone.git
 cd Myntra-Clone
 - Install dependencies
 npm install
@@ -31,10 +31,10 @@ npm start
 - Open in browser
 http://localhost:3000
 
-📸 Screenshots
+## 📸 Screenshots
 
-🧑‍💻 Author
-MO FAHIM RAJ
-FullStack Developer | AI/ML Enthusiast
-📧 sca23085@gmail.com
-🔗 https://github.com/Fahimraj12
+## 🧑‍💻 Author
+- MO FAHIM RAJ
+- FullStack Developer | AI/ML Enthusiast
+- 📧 sca23085@gmail.com
+- 🔗 https://github.com/Fahimraj12
