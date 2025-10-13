@@ -18,3 +18,23 @@ This project demonstrates modern frontend development practices including React 
 - Routing	React Router DOM
 - Notifications	React Toastify
 - Version Control	Git, GitHub
+
+⚙️ Installation and Setup
+
+- Clone the repository
+git clone https://github.com/<your-username>/Myntra-Clone.git
+cd Myntra-Clone
+- Install dependencies
+npm install
+- Start the development server
+npm start
+- Open in browser
+http://localhost:3000
+
+📸 Screenshots
+
+🧑‍💻 Author
+MO FAHIM RAJ
+FullStack Developer | AI/ML Enthusiast
+📧 sca23085@gmail.com
+🔗 https://github.com/Fahimraj12
