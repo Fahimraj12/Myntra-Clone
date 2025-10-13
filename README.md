@@ -14,22 +14,22 @@ This project demonstrates modern frontend development practices including React 
 
 ## 🧰 Tech Stack
 - Frontend:React.js, JSX, CSS3
-- State Management	Redux Toolkit
-- Routing	React Router DOM
-- Notifications	React Toastify
-- Version Control	Git, GitHub
+- State Management:Redux Toolkit
+- Routing: React Router DOM
+- Notifications: React Toastify
+- Version Control: Git, GitHub
 
 ## ⚙️ Installation and Setup
 
-- Clone the repository
-git clone https://github.com/FahimRaj12/Myntra-Clone.git
-cd Myntra-Clone
+- Clone the repository:
+  - git clone https://github.com/FahimRaj12/Myntra-Clone.git
+  - cd Myntra-Clone
 - Install dependencies
-npm install
+  - npm install
 - Start the development server
-npm start
+  - npm start
 - Open in browser
-http://localhost:3000
+  - http://localhost:3000
 
 ## 📸 Screenshots
 
