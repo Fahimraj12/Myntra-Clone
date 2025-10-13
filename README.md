@@ -1,31 +1,14 @@
 # Myntra-Clone
+- A fully responsive Myntra Clone built using React.js that replicates the core features and design of the Myntra e-commerce platform.
+This project demonstrates modern frontend development practices including React components, Redux state management, React Router navigation, and dynamic UI rendering.
 
+🚀 Features
 
-## 🚀 Features
-
-
-
-## 🛠️ Tech Stack
-
-
-
-## 📂 Folder Structure
-
-
-
-## Author:
-**[Mo Fahim Raj](https://github.com/Fahimraj12)**  
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
+🏠 Home Page: Displays product listings fetched from static data or API.
+🧥 Product Page: Shows product details with price, description, and images.
+🛒 Add to Bag: Add or remove products to/from shopping bag (cart) using Redux.
+❤️ Wishlist Management: Save favorite products for later purchase.
+💳 Checkout Page: Displays order summary and total price.
+🔍 Search Functionality: Filter or search for products.
+🌐 Responsive Design: Works seamlessly on desktop and mobile devices.
+⚡ Toast Notifications: Instant feedback using React Toastify.
