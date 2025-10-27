@@ -1,4 +1,4 @@
-<img width="1470" height="811" alt="Screenshot 2025-10-27 at 12 17 11 PM" src="https://github.com/user-attachments/assets/7a61d5a0-e4ab-4c8e-8b28-b70c1112c5e2" /># Myntra-Clone
+# Myntra-Clone
 - A fully responsive Myntra Clone built using React.js that replicates the core features and design of the Myntra e-commerce platform.
 This project demonstrates modern frontend development practices including React components, Redux state management, React Router navigation, and dynamic UI rendering.
 
