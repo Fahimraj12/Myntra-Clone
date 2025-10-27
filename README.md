@@ -36,7 +36,12 @@ This project demonstrates modern frontend development practices including React 
   http://localhost:3000
 
 ## 📸 Screenshots
+##### Home Page
+<img width="1469" height="835" alt="Screenshot 2025-10-27 at 12 16 23 PM" src="https://github.com/user-attachments/assets/2a04b316-2b0a-4429-9435-b07a4195586f" /><img width="1470" height="837" alt="Screenshot 2025-10-27 at 12 16 41 PM" src="https://github.com/user-attachments/assets/9d163c7b-36a3-4700-b402-f3eb5705d96a" />
 
+
+
+   
 ## 🧑‍💻 Author
 - MO FAHIM RAJ
 - FullStack Developer | AI/ML Enthusiast
