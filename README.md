@@ -1,4 +1,4 @@
-# Myntra-Clone
+<img width="1470" height="811" alt="Screenshot 2025-10-27 at 12 17 11 PM" src="https://github.com/user-attachments/assets/7a61d5a0-e4ab-4c8e-8b28-b70c1112c5e2" /># Myntra-Clone
 - A fully responsive Myntra Clone built using React.js that replicates the core features and design of the Myntra e-commerce platform.
 This project demonstrates modern frontend development practices including React components, Redux state management, React Router navigation, and dynamic UI rendering.
 
@@ -39,10 +39,13 @@ This project demonstrates modern frontend development practices including React 
 ##### Home Page
 <img width="1469" height="835" alt="Screenshot 2025-10-27 at 12 16 23 PM" src="https://github.com/user-attachments/assets/2a04b316-2b0a-4429-9435-b07a4195586f" /><img width="1470" height="837" alt="Screenshot 2025-10-27 at 12 16 41 PM" src="https://github.com/user-attachments/assets/9d163c7b-36a3-4700-b402-f3eb5705d96a" /><img width="1470" height="835" alt="Screenshot 2025-10-27 at 12 16 56 PM" src="https://github.com/user-attachments/assets/277ef4ab-9cae-41cd-9ae3-5095f7d16827" />
 
+##### Payment Page
+<img width="1470" height="811" alt="Screenshot 2025-10-27 at 12 17 11 PM" src="https://github.com/user-attachments/assets/6fa8c6b9-dd01-45c6-85a3-b84b875231ee" />
+
+##### Payment Success
+<img width="1469" height="798" alt="Screenshot 2025-10-27 at 12 17 15 PM" src="https://github.com/user-attachments/assets/c677991b-216a-4f04-ade5-2a9c30b1f3ed" />
 
 
-##### Home Page
-   
 ## 🧑‍💻 Author
 - MO FAHIM RAJ
 - FullStack Developer | AI/ML Enthusiast
