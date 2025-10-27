@@ -22,14 +22,18 @@ This project demonstrates modern frontend development practices including React 
 ## ⚙️ Installation and Setup
 
 - Clone the repository:
-  - git clone https://github.com/FahimRaj12/Myntra-Clone.git
-  - cd Myntra-Clone
+   ```bash
+  git clone https://github.com/FahimRaj12/Myntra-Clone.git
+  cd Myntra-Clone
 - Install dependencies
-  - npm install
+  ```bash
+  npm install
 - Start the development server
-  - npm start
+  ```bash
+  npm start
 - Open in browser
-  - http://localhost:3000
+  ```bash
+  http://localhost:3000
 
 ## 📸 Screenshots
 
