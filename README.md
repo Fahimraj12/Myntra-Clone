@@ -46,8 +46,8 @@ This project demonstrates modern frontend development practices including React 
 <img width="1469" height="798" alt="Screenshot 2025-10-27 at 12 17 15 PM" src="https://github.com/user-attachments/assets/c677991b-216a-4f04-ade5-2a9c30b1f3ed" />
 
 
-## 🧑‍💻 Author
-- MO FAHIM RAJ
-- FullStack Developer | AI/ML Enthusiast
-- 📧 sca23085@gmail.com
-- 🔗 https://github.com/Fahimraj12
+
+### 👨‍💻 Author
+- [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
+- 📧 [mofahimraj@gmail.com]
+- 🔗 [GitHub Profile](https://github.com/Fahimraj12)
