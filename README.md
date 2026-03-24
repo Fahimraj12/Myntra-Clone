@@ -5,7 +5,7 @@ This project demonstrates modern frontend development practices including React 
 ## 🚀 Features
 - 🏠 Home Page: Displays product listings fetched from static data or API.
 - 🧥 Product Page: Shows product details with price, description, and images.
-- 🛒 Add to Bag: Add or remove products to/from shopping bag (cart) using Redux.
+- 🛒 Add to Bag: Add or remove products to/from shopping bag (cart) using Redux
 - ❤️ Wishlist Management: Save favorite products for later purchase.
 - 💳 Checkout Page: Displays order summary and total price.
 - 🔍 Search Functionality: Filter or search for products.
